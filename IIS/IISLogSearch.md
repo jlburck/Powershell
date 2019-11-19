@@ -1,0 +1,2 @@
+IISLogSearch will check all files in the IIS log file directory based on today's date.  This search is based on a pattern match for codes captured in the log files.
+Any codes that are 300 or higher will be captured.  The output excludes any 401 code captures.
