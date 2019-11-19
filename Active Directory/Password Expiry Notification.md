@@ -1,0 +1,2 @@
+Password Expiry notification allows a search through all Active Directory users to determine which users passwords are about to expire.  This can only be done by a user 
+that has sufficient privileges within Active Directory.  This script will email users whose account is about to expire.
